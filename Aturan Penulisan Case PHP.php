@@ -17,8 +17,10 @@ echo "<p>umur saya adalah $umur";
 echo
 
 "<p>Coba pakai blok program ",
-echo "<p>Nama saya adalah $nama";
-echo "<P>Nama panggilan saya adalah $nama";
-echo "<p>umur saya adalah $umur";
+ "<p>Nama saya adalah $nama",
+ "<P>Nama panggilan saya adalah $nama",
+ "<p>umur saya adalah $umur",
 
-echo "<br><br><br><strong>By Fachri<strong>";
+ "<br><br><br><strong>By Fachri<strong>";
+
+ ?>
