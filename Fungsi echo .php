@@ -4,5 +4,4 @@ echo("Hello world!<br>");
 echo "Disedang belajar PHP!<br>";
 echo "Ini ", "teks ", "yang ", "dibuat ", "terpisah.";
 echo "By Fachri"
-
 ?>
