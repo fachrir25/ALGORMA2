@@ -27,7 +27,7 @@ $namaPembeli = "Fachri"; //  menggunakan camelCase
 
 //3)	Variabel harus diisi saat pembuatannya. Bila kita tidak ingin mengisi, cukup isi dengan nilai kosong.
 //Contoh:
-$nama_barang = "Fachri";
+$nama_barang = "leptop";
 $namaPembeli = "Fachri";
 $harga = 5000000;
 
